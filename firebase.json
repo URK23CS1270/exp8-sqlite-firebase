@@ -1,0 +1,25 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "sqlite-student-app",
+          "appId": "1:797505108536:android:c39bb67c6f727e89fa04cd",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "sqlite-student-app",
+          "configurations": {
+            "android": "1:797505108536:android:c39bb67c6f727e89fa04cd",
+            "ios": "1:797505108536:ios:2f22919088ed8e9ffa04cd",
+            "macos": "1:797505108536:ios:2f22919088ed8e9ffa04cd",
+            "web": "1:797505108536:web:76940775fab36191fa04cd",
+            "windows": "1:797505108536:web:7904e3bd27c18625fa04cd"
+          }
+        }
+      }
+    }
+  }
+}
